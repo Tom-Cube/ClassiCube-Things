@@ -4,5 +4,4 @@
 |Name|Description|
 |---|---|
 |CmdLinebreak.cs|Breaks a line.|
-
-## Plugins
+|CmdNobuild.cs|Toggles map interactivity.|
